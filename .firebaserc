@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crm2022-5cd4d": {
+      "hosting": {
+        "angular-project": [
+          "crm2022-5cd4d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crm2022-5cd4d"
+  }
+}
